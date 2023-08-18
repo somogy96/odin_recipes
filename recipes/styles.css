@@ -1,0 +1,17 @@
+* {
+    font-family: "Arial", sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 2px solid;
+}
+
+div {
+    background: beige;
+    margin: auto;
+    padding: 50px;
+    width: 500px;
+    border: 2px solid;
+}
